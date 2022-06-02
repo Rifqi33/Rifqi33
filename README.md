@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
+<h1 align="center">Hi There About Me 👋<img src="https://telegra.ph/file/332980cd7115348fcbc3d.jpg" width="80px" alt=""><br></h1>
 <p align="center">
   <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
 </p>
