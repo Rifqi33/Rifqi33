@@ -5,11 +5,7 @@
 
 <p align="center">
 
-- 👼 My name is Alusius Pasaribu
-- 💨 Dipanggil Hyzer 
-- 🗣️ My Birthday 06 Februari
-- 🔭 Always Insecure
-- 🐣 Anime Lovers
+- Hi There 👋
 
 </p>
 
