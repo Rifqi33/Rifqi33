@@ -1,8 +1,5 @@
 
-
-
-<h1 align="center">Hi There About Me 👋<img src="https://telegra.ph/file/332980cd7115348fcbc3d.jpg" width="80px" alt=""><br></h1>
-<p align="center">
+<h1 align="center">
   <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
 </p>
 
