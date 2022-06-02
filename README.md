@@ -1,14 +1,14 @@
-# About Me
+# My Profile
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
 
-### ['A Little About Me 🧒']
+### A Few About Me
 ```
-"Nama": "Hyzer",
-"N.Asli": "Alusius", 
-"Status": "Maybe Student",
-"Umur": "Hanya Tuhan Yang Tau", 
-"Alamat": "Medan, Indonesia",
-"Ulang tahun": "Februari - 06"
+Nama: Hyzer,
+N.Asli: Alusius, 
+Status: Maybe Student,
+Umur: Hanya Tuhan Yang Tau, 
+Alamat: Medan, Indonesia",
+Ulang tahun: Februari - 06
 ```
 - JavaScript : 50%
 - Html : 35%
