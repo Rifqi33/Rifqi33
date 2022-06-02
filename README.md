@@ -1,16 +1,24 @@
+# About Me
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
 
-<h1 align="center">
-  <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
-</p>
+### ['A Little About Me 🧒']
+```
+"Nama": "Hyzer",
+"N.Asli": "Alusius", 
+"Status": "Maybe Student",
+"Umur": "Hanya Tuhan Yang Tau", 
+"Alamat": "Medan, Indonesia",
+"Ulang tahun": "Februari - 06"
+```
+- JavaScript : 50%
+- Html : 35%
+- Css : 10%
+- Pyhton : 5%
 
-<p align="center">
-
-- Hi There 👋
-
-</p>
+<div align="center">
 
 ------
-### Connect with me ☎️
+### Connect with me 😊
 <p align="center">
   <a href="https://instagram.com/zexyds_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/6287892711054"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -23,10 +31,13 @@
   <a href="https://komarev.com/ghpvc/?username=hyzerr&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=hyzerr&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
-### Mobile Legends 🎮
-<p align="center">
-  <img src="https://d1x91p7vw3vuq8.cloudfront.net/image_upload/2020105/ax268kdhrxb3cxvfc8kiym.png" />
+-----
+
+<h1 align="center">
+  <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
 </p>
+
+-----
 
 ------
 
@@ -38,14 +49,14 @@
 
 ------
 
-### Github Stats 🚀
+### My Sc 🤸‍♂️
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=hyzerr&repo=hyzer-v3&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=hyzerr&repo=hyzer-md-v2&theme=nightowl)
+
+### Github Status 🚀
 
 <p align="center"><a href="https://github.com/hyzerr"><img src="https://github-readme-stats.vercel.app/api?username=hyzerr&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/hyzerr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyzerr&theme=radical&layout=compact"></a></p> 
-
-### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=hyzerr&repo=hyzer-v3&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=hyzerr&repo=hyzer-md-v2&theme=nightowl)
 
 
 <p align="center">
