@@ -5,9 +5,6 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages.
 
-- 🌺 
-- 🎋 
-
 <h3 align="left">Contact:</h3>
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100064516381260" target="blank"><img align="center"
