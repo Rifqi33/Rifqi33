@@ -1,4 +1,4 @@
-<a href = "https://github.com/Hyzerr"><img src = "https://cardivo.vercel.app/api?name=Hyzer Official&description=WELCOME%20TO%20MY%20GITHUB%20🐤.&image=https://telegra.ph/file/238d6e68de40508a90e2c.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=Hyzerr&pattern=topography&colorPattern=%23eaeaea"/><a>
+<a href = "https://github.com/Hyzerr"><img src = "https://cardivo.vercel.app/api?name=Hyzer Official&description=WELCOME%20TO%20MY%20GITHUB%20🐤.&image=https://telegra.ph/file/43dcbad16a456d2b86e50.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=Hyzerr&pattern=topography&colorPattern=%23eaeaea"/><a>
 <p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=Hyzerr&label=Profile%20views&color=0e75b6&style=flat"
     alt="Hyzerr" /> 
   </p>
