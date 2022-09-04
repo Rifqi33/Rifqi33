@@ -1,6 +1,4 @@
-<a href = "https://github.com/Hyzerr"><img src = "https://cardivo.vercel.app/api?name=Hyzer Official&description=WELCOME%20TO%20MY%20GITHUB%20🐤.&image=https://telegra.ph/file/43dcbad16a456d2b86e50.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=Hyzerr&pattern=topography&colorPattern=%23eaeaea"/><a>
-
-- 🌱 I’m currently learning Web Development and other programming languages.
+<a href = "https://github.com/Hyzerr"><img src = "https://cardivo.vercel.app/api?name=Hyzer Official&description=WELCOME%20TO%20MY%20GITHUB%20🐤.&image=https://telegra.ph/file/43dcbad16a456d2b86e50.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=- 🌱 I’m currently learning Web Development and other programming languages.
 
 <h3 align="left">Contact:</h3>
 <p align="left">
