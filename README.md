@@ -1,3 +1,10 @@
+# <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100"> HYZER OFFICIAL PROFILE  
+
+I'm Hyzer 
+<br>
+I'm just wanna be my self, thx.
+<br>
+
 - 😇 I’m currently learning Web Development and other programming languages.
 
 <h3 align="left">Contact:</h3>
