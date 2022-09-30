@@ -1,6 +1,6 @@
-# <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100"> HYZER OFFICIAL PROFILE  
+# <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100"> Fazax22
 
-- I'm Hyzer 
+- I'm Faza OR Rifqi 
 - I'm just wanna be my self, thx.
 - I’m currently learning Web Development and other programming languages.
 - 😇
